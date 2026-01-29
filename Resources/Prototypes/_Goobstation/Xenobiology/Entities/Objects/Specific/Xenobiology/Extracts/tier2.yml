@@ -144,7 +144,7 @@
         sound: /Audio/Effects/Chemistry/bubbles.ogg
       - !type:AdjustReagent
         reagent: Leporazine
-        amount: 100
+        amount: 75
   - type: Tag
     tags:
     - XenobiologyDarkBlueExtract
