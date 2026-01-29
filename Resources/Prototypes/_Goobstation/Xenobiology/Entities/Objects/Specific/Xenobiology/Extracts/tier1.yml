@@ -108,7 +108,7 @@
         sound: /Audio/Effects/Chemistry/bubbles.ogg
       - !type:AdjustReagent
         reagent: Omnizine
-        amount: 100
+        amount: 50 #CorvaxGoob 100 -> 50
   - type: Tag
     tags:
     - XenobiologyPurpleExtract
