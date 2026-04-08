@@ -257,7 +257,7 @@
 
 - type: hitscan
   id: StunPulse
-  staminaDamage: 80
+  staminaDamage: 40
   muzzleFlash:
     sprite: Objects/Weapons/Guns/Projectiles/projectiles.rsi
     state: muzzle_blue
