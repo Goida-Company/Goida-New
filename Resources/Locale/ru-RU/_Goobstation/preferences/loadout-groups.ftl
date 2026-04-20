@@ -10,12 +10,12 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-loadout-group-ntr-head = ПNT, голова
-loadout-group-ntr-backpack = ПNT, рюкзак
-loadout-group-ntr-neck = ПNT, шея
-loadout-group-ntr-jumpsuit = ПNT, комбинезон
-loadout-group-ntr-belt = ПNT, пояс
-loadout-group-ntr-shoes = ПNT, обувь
+loadout-group-ntr-head = ПНТ, голова
+loadout-group-ntr-backpack = ПНТ, рюкзак
+loadout-group-ntr-neck = ПНТ, шея
+loadout-group-ntr-jumpsuit = ПНТ, комбинезон
+loadout-group-ntr-belt = ПНТ, пояс
+loadout-group-ntr-shoes = ПНТ, обувь
 loadout-group-bso-head = ОСЩ, голова
 loadout-group-bso-backpack = ОСЩ, рюкзак
 loadout-group-bso-jumpsuit = ОСЩ, комбинезон

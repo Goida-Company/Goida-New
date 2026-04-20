@@ -21,5 +21,5 @@ ent-ClothingHeadHelmetHardsuitDetective = шлем скафандра детек
     .desc = Шлем со встроенной федорой для скафандра детектива.
 ent-ClothingHeadHelmetHardsuitContractor = шлем скафандра Наёмника
     .desc = Прочное забрало, прикреплённое к скафандру Наёмника.
-ent-ClothingHeadHelmetHardsuitNanorep = шлем скафандра ПNT
+ent-ClothingHeadHelmetHardsuitNanorep = шлем скафандра ПНТ
     .desc = { ent-ClothingHeadHardsuitWithLightBase.desc }
