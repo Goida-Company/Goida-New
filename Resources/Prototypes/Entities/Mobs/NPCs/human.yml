@@ -110,7 +110,7 @@
       rootTask:
         task: SimpleHumanoidHostileCompound
     - type: PartialAbsorbable # Goobstation - changelings
-    - type: RandomMetadata
+    - type: RandomMetadata # CorvaxGoob edit
       nameSegments:
       - NamesSyndicateFootsoldierRole
       - NamesSyndicateNormal
@@ -130,7 +130,7 @@
   description: I think they're dead.
   components:
   - type: RandomHumanoidAppearance
-    randomizeName: true
+    randomizeName: true # CorvaxGoob edit
   - type: Damageable
     damage:
       types:

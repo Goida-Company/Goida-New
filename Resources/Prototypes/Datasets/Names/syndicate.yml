@@ -16,9 +16,3 @@
     prefix: names-syndicate-prefix-dataset-
     count: 2
 
-# CorvaxGoob
-- type: localizedDataset
-  id: NamesSyndicateFootsoldierRole
-  values:
-    prefix: names-syndicate-footsoldier-role-dataset-
-    count: 7
